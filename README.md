@@ -21,7 +21,7 @@
 2. Glove6B dataset [Link](https://drive.google.com/open?id=1GI5sWeCxgJEgToeVmakL69oDlXowXGU4)
 ----
 ## Reference Paper
-* Paper:[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf)
+* Paper:[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) [요약](https://mrsyee.github.io/nlp/2018/11/24/Show_and_tell/)
 * Paper:[Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/pdf/1412.2306.pdf)
 ----
 ## Requirements
