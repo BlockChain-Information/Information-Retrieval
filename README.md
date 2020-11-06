@@ -13,7 +13,7 @@
 ----
 ## Description
 * connects computer vision and Natual language Processing
-* 이미지를 읽어 자연어(영어/한글) 로 설명 해준다
+* Read images and explain them in natural language (English/Korean)
 ----
 ## Dataset
 1. Flickr8k  Dataset [Flickr8k](https://github.com/jbrownlee/Datasets/releases)
