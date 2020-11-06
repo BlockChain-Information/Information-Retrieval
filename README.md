@@ -36,6 +36,7 @@
 
 
 ## Model flow Chart
+<img src="https://user-images.githubusercontent.com/59309187/98335902-35aa8080-2049-11eb-8ac8-9aebd7286335.jpg" width="90%"></img>
 
 ## Run Model in steps
 ---
