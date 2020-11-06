@@ -23,6 +23,7 @@
 ## Reference Paper
 * Paper:[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) [요약](https://mrsyee.github.io/nlp/2018/11/24/Show_and_tell/)
 * Paper:[Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/pdf/1412.2306.pdf)
+* Paper:[Large-Scale Image Retrieval with Attentive Deep Local Features](https://arxiv.org/pdf/1612.06321.pdf) [요약](https://glee1228.tistory.com/3)
 ----
 ## Requirements
 * Python
