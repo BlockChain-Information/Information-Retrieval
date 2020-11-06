@@ -12,7 +12,7 @@
 
 ----
 ## Description
-* connects computer vision and Natual language Processing
+* connects Computer Vision and Natual Language Processing
 * Read images and explain them in natural language (English/Korean)
 ----
 ## Dataset
