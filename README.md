@@ -19,8 +19,10 @@
 1. Flickr8k  Dataset [Flickr8k](https://github.com/jbrownlee/Datasets/releases)
 2. Flickr30k Dataset [Flickr30K](https://www.kaggle.com/hsankesara/flickr-image-dataset)
 3. MS-COCO Dataset [Link](https://cocodataset.org/#download)
-
-4. Glove 6B[link](https://www.kaggle.com/thanakomsn/glove6b300dtxt)
+----
+## Word Embedding
+1. word2vec [link](https://code.google.com/archive/p/word2vec/) 
+2. GloVe    [link](https://www.kaggle.com/thanakomsn/glove6b300dtxt)
 ----
 ## Reference  
 * Paper:[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) [요약](https://mrsyee.github.io/nlp/2018/11/24/Show_and_tell/)
