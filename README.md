@@ -16,9 +16,11 @@
 * 이미지를 읽어줌  
 ----
 ## Dataset
-1. Flickr30k Dataset has been used for the training of model.
+1. Flickr8k [Flickr8k](https://github.com/jbrownlee/Datasets/releases)
+2. Flickr30k Dataset has been used for the training of model.
    [Flickr30K](https://www.kaggle.com/hsankesara/flickr-image-dataset)
-2. Glove6B dataset [Link](https://drive.google.com/open?id=1GI5sWeCxgJEgToeVmakL69oDlXowXGU4)
+3. Glove6B dataset [Link](https://drive.google.com/open?id=1GI5sWeCxgJEgToeVmakL69oDlXowXGU4)
+4. MS-COCO [MS-COCO](https://cocodataset.org/#download)
 ----
 ## Reference Paper
 * Paper:[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) [요약](https://mrsyee.github.io/nlp/2018/11/24/Show_and_tell/)
