@@ -22,6 +22,7 @@
 ----
 ## Reference Paper
 * Paper:[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) [요약](https://mrsyee.github.io/nlp/2018/11/24/Show_and_tell/)
+* Paper:[Image Captioning with Semantic Attention](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf) [요약](https://hyeongminlee.github.io/post/pr002_image_captioning/)
 * Paper:[Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/pdf/1412.2306.pdf)
 * Paper:[Large-Scale Image Retrieval with Attentive Deep Local Features](https://arxiv.org/pdf/1612.06321.pdf) [요약](https://glee1228.tistory.com/3)
 * Paper:[Recurrent Neural Network를 이용한 이미지 캡션 생성](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002133166)
