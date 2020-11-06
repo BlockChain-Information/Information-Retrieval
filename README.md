@@ -7,7 +7,7 @@
   https://github.com/orgs/BlockChain-Information/teams/information-retrieval  여기로 접속
   
   
-# 주제 : Image Captioning
+# 프로젝트주제 : Image Captioning
 
 
 ----
