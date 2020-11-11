@@ -53,6 +53,13 @@ python train.py
 python sample.py --image='png/example.png'
 ```
 
+#### 6. UI 버전 
+
+```bash
+python showntell.py
+```
+
+
 <br>
 
 ## Pretrained model
