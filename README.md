@@ -32,6 +32,8 @@
 * Paper:[Large-Scale Image Retrieval with Attentive Deep Local Features](https://arxiv.org/pdf/1612.06321.pdf) [요약](https://glee1228.tistory.com/3)
 * Paper:[Recurrent Neural Network를 이용한 이미지 캡션 생성](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002133166)
 * Paper:[Transformer 를 이용한 이미지 캡션 생성](https://github.com/BlockChain-Information/Information-Retrieval/blob/master/00.Paper/(2019-%EC%A0%95%EB%B3%B4%EA%B3%BC%ED%95%99%ED%9A%8C-%EC%9D%B4%EC%A7%80%EC%9D%80)_Transformer%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%BA%A1%EC%85%98_%EC%83%9D%EC%84%B1.pdf)
+
+* Paper:[Multimodal popularity prediction of brand-related social media posts](https://staff.fnwi.uva.nl/m.mazloom/Papers/mazloom-ACM-MM-2016.pdf)
 ----
 ## Requirements
 * Python
