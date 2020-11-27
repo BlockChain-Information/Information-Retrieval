@@ -6,11 +6,13 @@
 
   https://github.com/orgs/BlockChain-Information/teams/information-retrieval  여기로 접속
 
+----
+
 # 정보검색 기말프로젝트 구성도
   <img src="https://user-images.githubusercontent.com/59309187/100438080-0b4a6100-30e5-11eb-8f45-d7cd8895245a.jpeg" width="60%"></img>
 
-  
-# 정보검색 기말프로젝트주제 : Image Captioning
+----  
+# 정보검색 기말프로젝트주제 : Image Captioning 
 
 
 ----
